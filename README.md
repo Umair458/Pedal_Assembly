@@ -1,2 +1,2 @@
 # Pedal_Assembly
-This is CAD model of a padel Assembly used in formula Student car. I designed this model using SolidWorks 2016.
+This is CAD model of a Padel Assembly used in Formula Student car. I designed this model using SolidWorks 2016.
